@@ -1,9 +1,9 @@
 # Kmeans over pokemon dataset
 
+Kmeans is an unsupervised learning algorithm that uses clusters to label training examples.
+
 ![Kmeans](https://github.com/JhonSanz/kmeans/blob/master/kmeans.png?raw=true)
 
-
-Kmeans is an unsupervised learning algorithm that uses clusters to label training examples.
 
 It works like this:
 
